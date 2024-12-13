@@ -26,6 +26,9 @@ Here are some ideas to get you started:
   ![jsf](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
   ![jsg](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihan4540ID&show_icons=true&theme=radical)
+
+
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jihan4540" alt="GitHub Streak" /></a>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
